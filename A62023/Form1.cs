@@ -245,5 +245,10 @@ namespace A62023
                 konekcija.Close();
             }
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            this.Close();
+        }
     }
 }

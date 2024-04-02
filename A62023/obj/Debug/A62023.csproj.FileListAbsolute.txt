@@ -8,3 +8,13 @@ C:\Users\DELL\source\repos\A62023\A62023\obj\Debug\A62023.csproj.GenerateResourc
 C:\Users\DELL\source\repos\A62023\A62023\obj\Debug\A62023.csproj.CoreCompileInputs.cache
 C:\Users\DELL\source\repos\A62023\A62023\obj\Debug\A62023.exe
 C:\Users\DELL\source\repos\A62023\A62023\obj\Debug\A62023.pdb
+C:\Users\DELL\Source\Repos\A6github\A62023\bin\Debug\A62023.exe.config
+C:\Users\DELL\Source\Repos\A6github\A62023\bin\Debug\A62023.exe
+C:\Users\DELL\Source\Repos\A6github\A62023\bin\Debug\A62023.pdb
+C:\Users\DELL\Source\Repos\A6github\A62023\obj\Debug\A62023.csprojAssemblyReference.cache
+C:\Users\DELL\Source\Repos\A6github\A62023\obj\Debug\A62023.Form1.resources
+C:\Users\DELL\Source\Repos\A6github\A62023\obj\Debug\A62023.Properties.Resources.resources
+C:\Users\DELL\Source\Repos\A6github\A62023\obj\Debug\A62023.csproj.GenerateResource.cache
+C:\Users\DELL\Source\Repos\A6github\A62023\obj\Debug\A62023.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Source\Repos\A6github\A62023\obj\Debug\A62023.exe
+C:\Users\DELL\Source\Repos\A6github\A62023\obj\Debug\A62023.pdb
